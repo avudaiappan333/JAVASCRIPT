@@ -1,0 +1,50 @@
+
+        table:hover{
+            transform: translate(00px,900px) rotate(400deg) scale(0.
+            2);
+            transition: all 5s ;
+        }
+        table{
+        text-align: center;
+       font-size:30px;
+        margin:0 auto;
+        border:2px solid black;
+        border-collapse: collapse;
+
+        }
+        td{
+            border:2px solid black;
+        padding:30px;}
+        th{
+            color: red;
+        }
+        button{
+            padding:20px;
+            border: none;
+            font-size:20px;
+            background-color:rgb(255, 255, 255);
+            color:red;
+            text-shadow: 4px 4px 5px white;  
+        }
+        td,th{
+            background-color: black;
+        border: 5px dashed rgb(251, 255, 9);
+            box-shadow: 15px 15px 5px black;
+    }
+        *{margin: 0;
+        padding:0;
+    box-sizing: border-box;}
+        button:hover{
+        background-color: black;
+        color:white;
+        font-size:30px;      }
+        #ipt{
+            height:60px;
+            width:400px;
+        color: rgb(87, 60, 209);
+    font-size:40px;
+background-color:rgb(229, 233, 16);
+border:5px solid red;
+border-top-right-radius:40px;
+border-bottom-left-radius:30px;}
+  
